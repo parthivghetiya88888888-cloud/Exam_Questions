@@ -1,0 +1,44 @@
+1 What is a requirement in RE?
+2 What are traits of a good requirement?
+3 Who are market participants?
+4 What are the main phases in the software development process of a software product lifecycle?
+5 What basic types of processes do you know, and can you give an example of each?
+6 What is the motivation for addressing software requirements in a requirements engineering (RE) process?
+7 Please explain the two basic types of RE process target orientations?
+8 What are the RE process steps/levels? Which questions have to asked in each phase?
+9 Which topics should be analysed in the RE context phase?
+10 What is the difference between a Business Plan and a Business Case?
+11 What does SMART mean in the context of treats of goals?
+12 Which main questions shall be asked in a risk analyse?
+13 Which types of constraints do you know and can you name examples?
+14 Why is it important to manage the boundaries?
+15 Please name some key types of non-functional requirements
+16 What are possible sources for the elicitation of requirements? Please name also examples for the resources?
+17 What different types of user do you know and how do they differ?
+18 What are stakeholders in RE and how can they be identified?
+19 How can a target group be differentiated?
+20 What are personas? Please explain what they are for.
+21 What are the major approaches to create personas?
+22 What is a context model?
+23 Why is it important to get the "big picture" before writing the requirements?
+24 Please explain the differences between a wireframe, mock-up and prototype?
+25 Why is prototyping useful?
+26 What are the main methods to gather requirements. Can you provide some examples?
+27 Do you know some idea & design generating methods ?
+28 Please name some criteria to verify requirements?
+29 Please explain the difference between Validation and Verification
+30 Do you know the difference concepts of writing requirements in natural language. Please explain the differences?
+31 Please explain the advantages of textual requirements and modelled requirements (diagrams).
+32 What diagram types do you know and what do they show?
+33 What comes to mind when you think about abstraction level of requirements? What role plays a "cross reference" in this context.
+34 Which documents come to mind when you think about project work results?
+35 How is availability defined? Can you express it in a formular?
+36 Why is 100% availability of a system/service considered impossible?
+37 Please explain the main focus of the integrity, reliability and availability
+38 Please explain the differences of between SW product quality, Usability and User Experience.
+39 Do you know some positive characteristics of a user dialogue?
+40 Do you know some positive characteristics of a IT product?
+41 What does compliance mean in IT? Can you give examples of which documents should be considered during software development?
+42 What do think about the slogan "form follows function"?
+
+    

@@ -1,0 +1,58 @@
+This was an oral examination, therefore there are only verbal questions listed over here.
+
+
+Exercise 1. Modeling
+Translate the following real world situations into a formal model, so that a known algorithm can
+be applied.
+For each scenario
+• Identify the graph type (directed or undirected, weighted or unweighted)
+• Define the vertices and edges precisely
+• State the algorithmic problem that fits
+• name a standard graph algorithm that solves the problem.
+Scenarios:
+1. A city wants to connect all districts with the minimum total cost for roads.
+2. A navigation system must find the fastest route between two locations.
+3. A university wants to schedule exams so that no student has overlapping exams.
+4. A company wants to check whether all employees can be trained given prerequisite courses.
+Exercise 2. Runtime Analysis
+Explain clearly and precisely:
+1. Big-O, Big-Ω, and Big-Θ notation
+2. Worst-case versus average-case runtime
+3. Polynomial time versus exponential time
+4. P versus NP (high level explanation suffices)
+1. How does asymptotic analysis differ from real-world runtime?
+2. Explain how algorithms are analyzed with respect to their runtime complexity.
+3. In particular, describe how divide-and-conquer algorithms are analyzed. Illustrate your explanation using a concrete example.
+Exercise 3. Data Structures
+For each data structure, explain:
+• Structure and invariants
+• Supported operations
+• Time complexity of operations
+1
+1. Binary Search Tree (BST)
+2. Heap (Min-Heap / Max-Heap)
+3. Priority Queue
+4. Hash Map
+Compare the data structures:
+1. BST vs Hash Map: When would you prefer one over the other?
+2. Heap vs BST: Why are heaps not suitable for searching arbitrary elements?
+3. Balanced BST vs unbalanced BST: How does balance affect runtime guarantees?
+Exercise 4. Algorithms
+1. Dijkstra’s Algorithm:
+• Explain the algorithm. (You can do so by giving a concrete example.)
+• Why does the algorithm fail for negative weights?
+• How does the choice of the priority queue affect the runtime?
+2. MST:
+• Which algorithms do you know that compute the MST?
+• Explain one of the algorithms. You can do so by giving a concrete example.
+• How do we calculate the runtime of this algorithm?
+3. Max Flow / MinCut:
+• Explain the Ford-Fulkerson Algorithm.
+• Explain the Edmonds-Karp Algorithm.
+• Which problem does Edmonds-Karp Algorithm avoid compared to Ford-Fulkerson?
+• What is a residual graph?
+
+what is hashMap and how does it work?
+what is linklist ?
+Explain any algorithm. 
+
