@@ -1,0 +1,24 @@
+Task 1
+Conway (6)
+GRASP full name and goal(6)
+Stategy(4)
+
+
+Design pattern of gof explain(8)
+window.addeventlistener("onload", myfunc) 
+
+
+Task 2
+Drink configurator 
+Domain model(8)
+3 quality attributes (8)
+Quality attributes scenario (17)
+
+Task 3
+2 event driven architectures with pros and cons for each (8)
+ADR(27)
+Drink configurator app ADR for architecture style 
+Multiple servers distributed 
+In store console, end user devices
+Three competing architectures
+Quality scenarios from task 2
