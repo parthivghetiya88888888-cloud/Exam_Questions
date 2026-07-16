@@ -1,0 +1,8 @@
+total 120 marks from which marks are concluded from 100 marks that menas one question is given extra.
+
+1.Give two owasp top 10, explain it and how to solve it.
+2.Sdlc objective and explain 4 stages  of sdlc studied in class.
+3.yaml file code explanantion
+4.Gitleaks vulnerabilty explanation through report generated in json format
+5.what is trivy. What is owasp dependency check. In which tool they belong. How they work. How they work in pipeline. There were two vulnerabilities given and we have to explain it what the vulnerability does and what a developer can do to fix it.(cvss).
+6.Developer and security expert functional(4)and non functional requirements(4) in making vulnerability dashboard.
