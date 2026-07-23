@@ -1,0 +1,39 @@
+Parallel & Distributed Systems Oral Exam Questions
+
+What is RPC (Remote Procedure Call)?
+What is the motivation/purpose of RPC?
+How does RPC work?
+What is a Registry in RPC?
+Explain Parallelism.
+What is Parallel Overhead?
+What causes Parallel Overhead?
+Explain the graph of Number of Processors vs Execution Time.
+Why does execution time decrease initially as processors increase?
+Why does execution time increase after about 8 processors?
+What is Superlinear Speedup?
+Give an example of Superlinear Speedup.
+Explain Amdahl's Law.
+Explain Gustafson's Law.
+Difference between Amdahl's Law and Gustafson's Law.
+What is Data Parallelism? Give an example.
+What is Task Parallelism? Give an example.
+Several True/False questions related to Parallel Computing and Distributed Systems.
+Examples expected
+Data Parallelism
+Image processing
+Splitting a large dataset among processors
+Task Parallelism
+Download video and audio simultaneously
+Payment processing, inventory update, email sending at the same time
+Graph Question
+Draw/Explain Processors vs Execution Time
+Why does time reduce initially?
+Why does it increase after the optimum number of processors?
+Explain communication, synchronization, scheduling, and overhead.
+RPC Follow-up Questions
+What is RPC?
+Why do we use RPC?
+How does it hide network communication?
+Explain the RPC function call flow.
+What is the Registry?
+Give one real-life example of RPC.
